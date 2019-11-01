@@ -1,0 +1,35 @@
+@media (max-width:767px)
+{
+    h1{ font-size: 25px}
+    h3 {font-size: 18px}
+    h4 {font-size: 16px}
+    p , .lead {font-size: 13px}
+    .navbar-inverse .navbar-brand {font-size: 25px}
+    .about , .features , .testimonial , .price , .ourteam .team , .subscribe , .statistics .data , .ourskills , .contact-us .contact , .client {padding-bottom: 30px;padding-top: 30px}
+    footer {padding-top: 30px}
+    footer .copy {margin-top: 30px;font-size: 15px}
+    .navbar-inverse .navbar-nav > li > a {padding-top: 10px;padding-bottom: 10px}
+    .subscribe form input {border-radius: 10px;margin: auto;width: 80%;font-size: 16px }
+    .input-lg , .btn-lg{width: 80%;margin: auto;font-size: 16px}
+    .ourteam .team .person img {max-width: 150px}
+    .testimonial .carousel-indicators li {width: 50px;height: 50px}
+    .testimonial .carousel-inner {min-height: 120px}
+    
+    .fa-5x {font-size: 3em}
+    .statistics .data .stats p {font-size: 30px}
+    .statistics .data .stats span {font-size: 15px}
+    .subscribe form button {border-radius: 10px;margin: 10px auto 0px}
+    .navbar-fixed-top .navbar-collapse, .navbar-fixed-bottom .navbar-collapse {max-height: none}
+    .client ul li img {max-width: 100px}
+    footer .social-list li i{font-size: 30px}
+    footer .img-thumbnail {max-width: 110px}
+}
+
+@media (min-width:768px) and (max-width:991)
+{}
+
+@media (min-width:992px) and (max-width:1199)
+{}
+
+@media (min-width:1200px)
+{}
